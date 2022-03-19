@@ -1,0 +1,177 @@
+Body {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  header {
+    font-family: 'Fredoka One', cursive;
+    font-size: 60px;
+    text-shadow: 1px 6px rgb(106, 236, 94);
+    text-align: center;
+  }
+  /* title with paint can spray */
+
+  #introduction {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+#invader {
+  text-align: center;
+  text-decoration: underline overline wavy rgb(106, 236, 94);
+} 
+/* One Artist */
+
+.higher {
+  top: auto;
+  left: 40%;
+  position: absolute;
+  transform: translate(-60%, -160%);
+  font-size: 120%;
+  font-weight: bold;
+}
+
+/* fun fact for invader */
+
+p.double {
+  border-width: 5px;
+  text-align: center;
+  font-weight: bold;
+  outline: 5px dashed  rgb(106, 236, 94);
+  background-color: rgb(245, 219, 234);
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+  font-style: italic;
+}
+.column {
+  float: left;
+  width: 33.33%;
+}
+#spray {
+  width: 200px;
+  height: 200px;
+  transform: rotate(20deg);
+}
+
+#logo {
+  width: 950px;
+  height: 150px;
+}
+/* https://www4.flamingtext.com/net-fu/jobs/26522314080526884.html */
+
+#bunny {
+  width: 550px;
+  height: 550px;
+}
+
+#pacman {
+  width: 550px;
+  height: 550px;
+}
+
+#wall {
+  width: 550px;
+  height: 550px;
+}
+
+#paint {
+  opacity: 0.2;
+  width: 2000px;
+  height: 300px;
+  background-attachment: fixed;
+}
+/* smoke of fun facts */
+
+.centered {
+  top: auto;
+  left: 40%;
+  position: absolute;
+  transform: translate(-60%, -200%);
+  font-size: 120%;
+  font-weight: bold;
+}
+
+/* fun fact for Banksy */
+
+#snow {
+  width: 550px;
+  height: 550px;
+}
+
+#girl {
+  width: 550px;
+  height: 550px;
+}
+
+#social{
+  width: 550px;
+  height: 550px;
+}
+
+#banksy {
+  text-align: center;
+  text-decoration: underline overline wavy rgb(106, 236, 94);
+}
+
+/* second artist */
+
+p.dashed {
+  border-width: 5px;
+  text-align: center;
+  font-weight: bold;
+  outline: 5px dashed  rgb(236, 57, 159);
+  background-color: rgb(245, 219, 234);
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+  font-style: italic;
+}
+
+#smates{
+  text-align: center;
+  text-decoration: underline overline wavy rgb(106, 236, 94);
+}
+
+/* third artist */
+
+#dog {
+  width: 550px;
+  height: 650px;
+} 
+
+#moscow {
+  width: 550px;
+  height: 650px;
+}
+  
+#flamenco{
+  width: 550px;
+  height: 650px;
+}
+
+p.dotted {
+  border-width: 5px;
+  text-align: center;
+  font-weight: bold;
+  outline: 5px dashed  rgb(236, 57, 159);
+  background-color: rgb(245, 219, 234);
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+  font-style: italic;
+}
+
+.lower {
+  top: auto;
+  left: 40%;
+  position: absolute;
+  transform: translate(-60%, -160%);
+  font-size: 120%;
+  font-weight: bold;
+}
+
+/* fun fact for Smates */
